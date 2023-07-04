@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/veggo/static/css/main.1df5d6bb.css",
+    "main.js": "/veggo/static/js/main.96a1cfe9.js",
+    "static/media/blog-14.png": "/veggo/static/media/blog-14.cad7bd08e044db0db077.png",
+    "static/media/blog-13.png": "/veggo/static/media/blog-13.276ad73b075968f54263.png",
+    "static/media/hero-1.jpg": "/veggo/static/media/hero-1.8416d2043de9aba6c8a1.jpg",
+    "static/media/About-1.jpg": "/veggo/static/media/About-1.1e72b0f2469c205f8256.jpg",
+    "static/media/blog-4.png": "/veggo/static/media/blog-4.5c436bb81c3146ecb085.png",
+    "static/media/blog-3.png": "/veggo/static/media/blog-3.7555f1a58f813c96a574.png",
+    "static/media/Programs-5.gif": "/veggo/static/media/Programs-5.11049da62960d478b548.gif",
+    "static/media/About-2.jpg": "/veggo/static/media/About-2.af4165e7f3774b301ed7.jpg",
+    "static/media/Programs-2.gif": "/veggo/static/media/Programs-2.35e91e637ee9f5a05975.gif",
+    "static/media/Programs-3.gif": "/veggo/static/media/Programs-3.8e5bf589e252df40c7b7.gif",
+    "static/media/hero-image.png": "/veggo/static/media/hero-image.c21cfd19384d016f5a04.png",
+    "static/media/blog-11.png": "/veggo/static/media/blog-11.fc6100238917b9a1b514.png",
+    "static/media/footer.png": "/veggo/static/media/footer.11f7bd0058a204daf356.png",
+    "static/media/hero-2.jpg": "/veggo/static/media/hero-2.410d14682f12057a3438.jpg",
+    "static/media/Volunteer.png": "/veggo/static/media/Volunteer.5c2c7972b62859a1ac20.png",
+    "static/media/blog-6.png": "/veggo/static/media/blog-6.8d18e91f34a4efd64087.png",
+    "static/media/Programs-4.gif": "/veggo/static/media/Programs-4.23c8bc2cf9578486ba85.gif",
+    "static/media/blog-9.png": "/veggo/static/media/blog-9.2215620db7bbd6b15cea.png",
+    "static/media/Programs-1.gif": "/veggo/static/media/Programs-1.c8c5e90855ea4a6fda26.gif",
+    "static/media/About-main.jpg": "/veggo/static/media/About-main.b6db3d087b3066b1702a.jpg",
+    "static/media/blog-10.png": "/veggo/static/media/blog-10.1156522a8db5c72eae41.png",
+    "static/media/blog-8.png": "/veggo/static/media/blog-8.f2cdce46cb76071c2ce7.png",
+    "static/media/blog-5.png": "/veggo/static/media/blog-5.02fbb9099bf2c3973f00.png",
+    "static/media/blog-7.png": "/veggo/static/media/blog-7.b088e36148af60cf965b.png",
+    "static/media/blog-1.jpeg": "/veggo/static/media/blog-1.b11990b1592103342cb2.jpeg",
+    "static/media/blog-12.jpeg": "/veggo/static/media/blog-12.bdacceda5f66214e49ff.jpeg",
+    "static/media/blog-2.jpeg": "/veggo/static/media/blog-2.1b0a9ad3f94ed3d28318.jpeg",
+    "static/media/hero-3.jpg": "/veggo/static/media/hero-3.7285dd2f366485df0673.jpg",
+    "index.html": "/veggo/index.html",
+    "main.1df5d6bb.css.map": "/veggo/static/css/main.1df5d6bb.css.map",
+    "main.96a1cfe9.js.map": "/veggo/static/js/main.96a1cfe9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1df5d6bb.css",
+    "static/js/main.96a1cfe9.js"
+  ]
+}
